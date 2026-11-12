@@ -9,7 +9,7 @@ This project is a personal portfolio website developed for INFR3120 Assignment 2
 - EJS
 - Bootstrap
 - Font Awesome
-- HTML and CSS
+- HTML
 
 ## Website Pages
 1. Home
@@ -27,4 +27,11 @@ This project is a personal portfolio website developed for INFR3120 Assignment 2
 The project was generated using Express Generator with EJS as the template engine.
 
 ## References
-External code and resources will be documented here as they are added.
+
+## References
+
+- Bootstrap 5 Documentation: https://getbootstrap.com/docs/5.3/
+- Font Awesome Icons: https://fontawesome.com/icons
+- Express.js Documentation: https://expressjs.com/
+- EJS Documentation: https://ejs.co/
+- INFR3120 ExpressJS Lecture Materials – Videos posted by Mr Ahmed
