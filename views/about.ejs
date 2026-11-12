@@ -1,0 +1,48 @@
+
+<%- include('partials/header.ejs') %>
+<%- include('partials/main_nav.ejs') %>
+
+<main class="container py-5">
+
+  <!-- Personal introduction section -->
+  <section>
+    <h2>About Me</h2>
+
+    <!-- Personal profile image -->
+    <img src="/Assets/images/profile.jpeg"
+         alt="Photo of Jeffery Nnabuife"
+         class="img-fluid mb-3"
+         width="250">
+
+    <p>
+      Hello! My name is Jeffery Nnabuife. I am a Technology
+      Management student at Ontario Tech University with an interest
+      in technology and business. I enjoy learning about different
+      areas of information technology and developing projects that
+      allow me to improve my technical skills.
+    </p>
+  </section>
+
+  <!-- Introduction video section -->
+  <section class="mt-4">
+    <h2>Introduction Video</h2>
+
+    <p>
+      Watch my short introduction video to learn more about me.
+    </p>
+
+    <video controls
+           poster="/Assets/images/video-poster.jpeg"
+           class="img-fluid"
+           width="500">
+
+      <source src="/Assets/video/introduction.mp4"
+              type="video/mp4">
+
+      Your browser does not support the HTML5 video element.
+    </video>
+  </section>
+
+</main>
+
+<%- include('partials/footer.ejs') %>
