@@ -28,10 +28,11 @@ The project was generated using Express Generator with EJS as the template engin
 
 ## References
 
-## References
-
 - Bootstrap 5 Documentation: https://getbootstrap.com/docs/5.3/
 - Font Awesome Icons: https://fontawesome.com/icons
 - Express.js Documentation: https://expressjs.com/
 - EJS Documentation: https://ejs.co/
 - INFR3120 ExpressJS Lecture Materials – Videos posted by Mr Ahmed
+
+## Deployed service
+https://assignment2-express-portfolio.onrender.com
